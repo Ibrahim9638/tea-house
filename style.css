@@ -1,0 +1,101 @@
+
+
+.special-color {
+  background: linear-gradient(to right, #ffb300, red);
+  border: none;
+}
+
+
+
+.star-icon {
+	position: relative;
+	top: 45px;
+	left: 8px;
+	font-size: 23px;
+}
+.b-shadow {
+	width: 198px;
+	height: 100px;
+}
+.card-bg {
+	background: #F4F4F4;
+}
+.great-color{
+    background-color: gray;
+}
+.great-bg-color {
+	background: linear-gradient(#f2c1ef, #f7f7d4);
+}
+.footer-bg {
+	background-color: #F749F71C;
+}
+.input-bg {
+	background-color: #F7D3F71C;
+}
+
+.icon{
+    position: relative;
+    right: 53px;
+}
+
+.meet-section{
+    background: linear-gradient(to right, #dd3012, rgb(233, 71, 71));
+
+}
+.meet {
+	padding: 86px 75px 30px 80px;
+}
+.meet-content{
+    background: white;
+    border-radius: 7px;
+    opacity: .7;
+    position: relative;
+}
+.position-img {
+	position: relative;
+	top: -13px;
+	right: 20px;
+}
+.meet-p{
+    padding-bottom: 30px;
+}
+.meet-content-1 {
+	position: absolute;
+	background: white;
+	border-radius: 7px;
+	top: 1913px;
+	right: 280px;
+	width: 37%;
+}
+
+/* Great Section Styles */
+
+.first-content{
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-template-rows: repeat(3, 1fr);
+	gap: 20px;
+}
+.span-div{
+	grid-row:  span 2;
+}
+.div1 {
+	background: linear-gradient(to right, #F4F4F4 20%, #fbbbdb 150%);
+	width: 220px;
+	border-radius: 8px;
+}
+.div2{
+	background: linear-gradient(to right, #F4F4F4 20%, #fbbbdb 150%);
+	width: 220px;
+	border-radius: 8px;
+}
+.div3{
+	background:#F4F4F4;
+	width: 220px;
+	border-radius: 8px;
+}
+.div4{
+	background: linear-gradient(to right, #F4F4F4 20%, #fbbbdb 150%);
+	width: 220px;
+	border-radius: 8px;
+}
